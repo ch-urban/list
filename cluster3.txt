@@ -1,5 +1,4 @@
-# login3.wotblitz.ru
-#
+login3.wotblitz.ru
 92.38.156.142
 92.38.156.13
 92.38.156.189
