@@ -1,4 +1,4 @@
-login4.wotblitz.ru
+#login4.wotblitz.ru
 92.223.4.178
 92.223.4.179
 92.223.4.191
