@@ -1,5 +1,4 @@
-# login0.wotblitz.ru
-#
+login0.wotblitz.ru
 92.223.6.75
 92.223.6.72
 92.223.6.76
